@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I am currently a first-year computer science student at the University of Toronto
-- 📕 I am currently learning Rust, React, and schema designs with MongoDB
+- 📕 I am currently learning React, tRPC with NextJS, and schema designs with MongoDB
 - 💭 I am interested in web development, linguistics, and physics simulations
 - 🎮 I enjoy building mechanical keyboards ⌨️ and customizing Linux window managers (I use arch btw)
