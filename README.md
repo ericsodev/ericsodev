@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I am currently a first-year computer science student at the University of Toronto
-- 📕 I am currently learning React, tRPC with NextJS, and schema designs with MongoDB
+- 🎓 I am currently a second-year computer science student at the University of Toronto
+- 📕 I am currently learning tRPC, NextJS, and Intel 8080 emulation.
 - 💭 I am interested in web development, linguistics, and physics simulations
 - 🎮 I enjoy building mechanical keyboards ⌨️ and customizing Linux window managers (I use arch btw)
