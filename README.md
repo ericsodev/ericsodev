@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🎓 I am a third-year student at the University of Toronto specializing in Computer Science and minoring in math
 - 📕 I am currently working on an Intel 8080 emulator and an interpreted programming language written Elixir.
-- 🌱 I am learning Category Theory and Abstract Algebra.
+- 🌱 I am learning Category Theory and Abstract Algebra (Group Theory).
 - 💭 I am interested in web development, linguistics, and physics simulations
 - 🎮 I enjoy building mechanical keyboards ⌨️ and customizing Linux window managers (I use arch btw)
