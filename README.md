@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am a software developer with an side interest in type systems and compilers
+- 🔭 I am a software developer with a side interest in type systems and compilers
 - 🎓 I am a third-year student at the University of Toronto specializing in Computer Science and minoring in math
 - 📕 I am currently working on an Intel 8080 emulator and an interpreted programming language written Elixir.
