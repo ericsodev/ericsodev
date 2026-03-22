@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am a full-stack software engineer with a side interest in type systems, compilers, some occasional functional programming theory.
+- 🔭 I am a full-stack software engineer with a side interest in type systems, compilers, and emulators.
 - 🎓 I am a fourth-year student at the University of Toronto specializing in Computer Science and minoring in Mathematics.
 - 📕 I am currently working on an Intel 8080 emulator and an interpreted programming language written Elixir.
