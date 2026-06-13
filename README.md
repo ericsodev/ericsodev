@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am a full-stack software engineer with a side interest in type systems, compilers, and emulators.
-- 🎓 I am a fourth-year student at the University of Toronto specializing in Computer Science and minoring in Mathematics.
-- 📕 I am currently working on an Intel 8080 emulator and an interpreted programming language written Elixir.
+- 🎓 I graduated from the University of Toronto specializing in Computer Science and minoring in Mathematics.
+- 📕 I am currently working on an Intel 8080 emulator and an in-memory vector database.
